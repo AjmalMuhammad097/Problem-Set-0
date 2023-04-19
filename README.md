@@ -1,5 +1,5 @@
 # Problem-Set-0
-Gobo's Maze Adventure
+Gobo's Maze Adventure: 
 Welcome to Gobo's Maze Adventure, a Scratch game where you help Gobo the sprite navigate through a maze to find a crystal and win the game!
 
 In this game, you control Gobo using the arrow keys on your keyboard. Your goal is to guide Gobo through a difficult maze to reach the crystal at the end. Along the way, you will encounter obstacles such as walls and dead ends that you will need to navigate around.
